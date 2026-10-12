@@ -1,0 +1,6 @@
+{
+  "name": "CYBERBARK: Laser Tag Neon Dogs",
+  "description": "Juego multijugador ciberpunk de laser tag en tiempo real donde perros cibernéticos escupen ráfagas láser con coberturas defensivas y salas privadas de 4 dígitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
